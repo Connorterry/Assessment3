@@ -8,7 +8,6 @@ public class PlaySounds : MonoBehaviour
     private AudioSource audioSource;
     public AudioClip introMusic;
     public AudioClip ghostsNormal;
-    private bool introFinished = false;
     // Start is called before the first frame update
     void Start()
     {
